@@ -76,7 +76,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>monishguru/api-gateway</repository>
+					<repository>monishguru/discovery-server</repository>
 					<tag>${project.version}</tag>
 					<useMavenSettingsForAuth>true</useMavenSettingsForAuth>
 				</configuration>
