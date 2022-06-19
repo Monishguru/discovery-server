@@ -10,11 +10,7 @@
 	</parent>
 	<groupId>com.dhl</groupId>
 	<artifactId>discovery-server</artifactId>
-<<<<<<< Updated upstream
-	<version>0.0.1-SNAPSHOT</version>
-=======
 	<version>1.1-RELEASE</version>
->>>>>>> Stashed changes
 	<name>discovery-server</name>
 	<description>Eureka Discovery Server to manage the Clients</description>
 	<properties>
